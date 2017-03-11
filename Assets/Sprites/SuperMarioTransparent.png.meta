@@ -1,0 +1,7084 @@
+fileFormatVersion: 2
+guid: 86247db5873c8024c8a90358164b7ad5
+timeCreated: 1488138749
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SuperMarioTransparent_0
+    21300002: SuperMarioTransparent_1
+    21300004: SuperMarioTransparent_2
+    21300006: SuperMarioTransparent_3
+    21300008: SuperMarioTransparent_4
+    21300010: SuperMarioTransparent_5
+    21300012: SuperMarioTransparent_6
+    21300014: SuperMarioTransparent_7
+    21300016: SuperMarioTransparent_8
+    21300018: SuperMarioTransparent_9
+    21300020: SuperMarioTransparent_10
+    21300022: SuperMarioTransparent_11
+    21300024: SuperMarioTransparent_12
+    21300026: SuperMarioTransparent_13
+    21300028: SuperMarioTransparent_14
+    21300030: SuperMarioTransparent_15
+    21300032: SuperMarioTransparent_16
+    21300034: SuperMarioTransparent_17
+    21300036: SuperMarioTransparent_18
+    21300038: SuperMarioTransparent_19
+    21300040: SuperMarioTransparent_20
+    21300042: SuperMarioTransparent_21
+    21300044: SuperMarioTransparent_22
+    21300046: SuperMarioTransparent_23
+    21300048: SuperMarioTransparent_24
+    21300050: SuperMarioTransparent_25
+    21300052: SuperMarioTransparent_26
+    21300054: SuperMarioTransparent_27
+    21300056: SuperMarioTransparent_28
+    21300058: SuperMarioTransparent_29
+    21300060: SuperMarioTransparent_30
+    21300062: SuperMarioTransparent_31
+    21300064: SuperMarioTransparent_32
+    21300066: SuperMarioTransparent_33
+    21300068: SuperMarioTransparent_34
+    21300070: SuperMarioTransparent_35
+    21300072: SuperMarioTransparent_36
+    21300074: SuperMarioTransparent_37
+    21300076: SuperMarioTransparent_38
+    21300078: SuperMarioTransparent_39
+    21300080: SuperMarioTransparent_40
+    21300082: SuperMarioTransparent_41
+    21300084: SuperMarioTransparent_42
+    21300086: SuperMarioTransparent_43
+    21300088: SuperMarioTransparent_44
+    21300090: SuperMarioTransparent_45
+    21300092: SuperMarioTransparent_46
+    21300094: SuperMarioTransparent_47
+    21300096: SuperMarioTransparent_48
+    21300098: SuperMarioTransparent_49
+    21300100: SuperMarioTransparent_50
+    21300102: SuperMarioTransparent_51
+    21300104: SuperMarioTransparent_52
+    21300106: SuperMarioTransparent_53
+    21300108: SuperMarioTransparent_54
+    21300110: SuperMarioTransparent_55
+    21300112: SuperMarioTransparent_56
+    21300114: SuperMarioTransparent_57
+    21300116: SuperMarioTransparent_58
+    21300118: SuperMarioTransparent_59
+    21300120: SuperMarioTransparent_60
+    21300122: SuperMarioTransparent_61
+    21300124: SuperMarioTransparent_62
+    21300126: SuperMarioTransparent_63
+    21300128: SuperMarioTransparent_64
+    21300130: SuperMarioTransparent_65
+    21300132: SuperMarioTransparent_66
+    21300134: SuperMarioTransparent_67
+    21300136: SuperMarioTransparent_68
+    21300138: SuperMarioTransparent_69
+    21300140: SuperMarioTransparent_70
+    21300142: SuperMarioTransparent_71
+    21300144: SuperMarioTransparent_72
+    21300146: SuperMarioTransparent_73
+    21300148: SuperMarioTransparent_74
+    21300150: SuperMarioTransparent_75
+    21300152: SuperMarioTransparent_76
+    21300154: SuperMarioTransparent_77
+    21300156: SuperMarioTransparent_78
+    21300158: SuperMarioTransparent_79
+    21300160: SuperMarioTransparent_80
+    21300162: SuperMarioTransparent_81
+    21300164: SuperMarioTransparent_82
+    21300166: SuperMarioTransparent_83
+    21300168: SuperMarioTransparent_84
+    21300170: SuperMarioTransparent_85
+    21300172: SuperMarioTransparent_86
+    21300174: SuperMarioTransparent_87
+    21300176: SuperMarioTransparent_88
+    21300178: SuperMarioTransparent_89
+    21300180: SuperMarioTransparent_90
+    21300182: SuperMarioTransparent_91
+    21300184: SuperMarioTransparent_92
+    21300186: SuperMarioTransparent_93
+    21300188: SuperMarioTransparent_94
+    21300190: SuperMarioTransparent_95
+    21300192: SuperMarioTransparent_96
+    21300194: SuperMarioTransparent_97
+    21300196: SuperMarioTransparent_98
+    21300198: SuperMarioTransparent_99
+    21300200: SuperMarioTransparent_100
+    21300202: SuperMarioTransparent_101
+    21300204: SuperMarioTransparent_102
+    21300206: SuperMarioTransparent_103
+    21300208: SuperMarioTransparent_104
+    21300210: SuperMarioTransparent_105
+    21300212: SuperMarioTransparent_106
+    21300214: SuperMarioTransparent_107
+    21300216: SuperMarioTransparent_108
+    21300218: SuperMarioTransparent_109
+    21300220: SuperMarioTransparent_110
+    21300222: SuperMarioTransparent_111
+    21300224: SuperMarioTransparent_112
+    21300226: SuperMarioTransparent_113
+    21300228: SuperMarioTransparent_114
+    21300230: SuperMarioTransparent_115
+    21300232: SuperMarioTransparent_116
+    21300234: SuperMarioTransparent_117
+    21300236: SuperMarioTransparent_118
+    21300238: SuperMarioTransparent_119
+    21300240: SuperMarioTransparent_120
+    21300242: SuperMarioTransparent_121
+    21300244: SuperMarioTransparent_122
+    21300246: SuperMarioTransparent_123
+    21300248: SuperMarioTransparent_124
+    21300250: SuperMarioTransparent_125
+    21300252: SuperMarioTransparent_126
+    21300254: SuperMarioTransparent_127
+    21300256: SuperMarioTransparent_128
+    21300258: SuperMarioTransparent_129
+    21300260: SuperMarioTransparent_130
+    21300262: SuperMarioTransparent_131
+    21300264: SuperMarioTransparent_132
+    21300266: SuperMarioTransparent_133
+    21300268: SuperMarioTransparent_134
+    21300270: SuperMarioTransparent_135
+    21300272: SuperMarioTransparent_136
+    21300274: SuperMarioTransparent_137
+    21300276: SuperMarioTransparent_138
+    21300278: SuperMarioTransparent_139
+    21300280: SuperMarioTransparent_140
+    21300282: SuperMarioTransparent_141
+    21300284: SuperMarioTransparent_142
+    21300286: SuperMarioTransparent_143
+    21300288: SuperMarioTransparent_144
+    21300290: SuperMarioTransparent_145
+    21300292: SuperMarioTransparent_146
+    21300294: SuperMarioTransparent_147
+    21300296: SuperMarioTransparent_148
+    21300298: SuperMarioTransparent_149
+    21300300: SuperMarioTransparent_150
+    21300302: SuperMarioTransparent_151
+    21300304: SuperMarioTransparent_152
+    21300306: SuperMarioTransparent_153
+    21300308: SuperMarioTransparent_154
+    21300310: SuperMarioTransparent_155
+    21300312: SuperMarioTransparent_156
+    21300314: SuperMarioTransparent_157
+    21300316: SuperMarioTransparent_158
+    21300318: SuperMarioTransparent_159
+    21300320: SuperMarioTransparent_160
+    21300322: SuperMarioTransparent_161
+    21300324: SuperMarioTransparent_162
+    21300326: SuperMarioTransparent_163
+    21300328: SuperMarioTransparent_164
+    21300330: SuperMarioTransparent_165
+    21300332: SuperMarioTransparent_166
+    21300334: SuperMarioTransparent_167
+    21300336: SuperMarioTransparent_168
+    21300338: SuperMarioTransparent_169
+    21300340: SuperMarioTransparent_170
+    21300342: SuperMarioTransparent_171
+    21300344: SuperMarioTransparent_172
+    21300346: SuperMarioTransparent_173
+    21300348: SuperMarioTransparent_174
+    21300350: SuperMarioTransparent_175
+    21300352: SuperMarioTransparent_176
+    21300354: SuperMarioTransparent_177
+    21300356: SuperMarioTransparent_178
+    21300358: SuperMarioTransparent_179
+    21300360: SuperMarioTransparent_180
+    21300362: SuperMarioTransparent_181
+    21300364: SuperMarioTransparent_182
+    21300366: SuperMarioTransparent_183
+    21300368: SuperMarioTransparent_184
+    21300370: SuperMarioTransparent_185
+    21300372: SuperMarioTransparent_186
+    21300374: SuperMarioTransparent_187
+    21300376: SuperMarioTransparent_188
+    21300378: SuperMarioTransparent_189
+    21300380: SuperMarioTransparent_190
+    21300382: SuperMarioTransparent_191
+    21300384: SuperMarioTransparent_192
+    21300386: SuperMarioTransparent_193
+    21300388: SuperMarioTransparent_194
+    21300390: SuperMarioTransparent_195
+    21300392: SuperMarioTransparent_196
+    21300394: SuperMarioTransparent_197
+    21300396: SuperMarioTransparent_198
+    21300398: SuperMarioTransparent_199
+    21300400: SuperMarioTransparent_200
+    21300402: SuperMarioTransparent_201
+    21300404: SuperMarioTransparent_202
+    21300406: SuperMarioTransparent_203
+    21300408: SuperMarioTransparent_204
+    21300410: SuperMarioTransparent_205
+    21300412: SuperMarioTransparent_206
+    21300414: SuperMarioTransparent_207
+    21300416: SuperMarioTransparent_208
+    21300418: SuperMarioTransparent_209
+    21300420: SuperMarioTransparent_210
+    21300422: SuperMarioTransparent_211
+    21300424: SuperMarioTransparent_212
+    21300426: SuperMarioTransparent_213
+    21300428: SuperMarioTransparent_214
+    21300430: SuperMarioTransparent_215
+    21300432: SuperMarioTransparent_216
+    21300434: SuperMarioTransparent_217
+    21300436: SuperMarioTransparent_218
+    21300438: SuperMarioTransparent_219
+    21300440: SuperMarioTransparent_220
+    21300442: SuperMarioTransparent_221
+    21300444: SuperMarioTransparent_222
+    21300446: SuperMarioTransparent_223
+    21300448: SuperMarioTransparent_224
+    21300450: SuperMarioTransparent_225
+    21300452: SuperMarioTransparent_226
+    21300454: SuperMarioTransparent_227
+    21300456: SuperMarioTransparent_228
+    21300458: SuperMarioTransparent_229
+    21300460: SuperMarioTransparent_230
+    21300462: SuperMarioTransparent_231
+    21300464: SuperMarioTransparent_232
+    21300466: SuperMarioTransparent_233
+    21300468: SuperMarioTransparent_234
+    21300470: SuperMarioTransparent_235
+    21300472: SuperMarioTransparent_236
+    21300474: SuperMarioTransparent_237
+    21300476: SuperMarioTransparent_238
+    21300478: SuperMarioTransparent_239
+    21300480: SuperMarioTransparent_240
+    21300482: SuperMarioTransparent_241
+    21300484: SuperMarioTransparent_242
+    21300486: SuperMarioTransparent_243
+    21300488: SuperMarioTransparent_244
+    21300490: SuperMarioTransparent_245
+    21300492: SuperMarioTransparent_246
+    21300494: SuperMarioTransparent_247
+    21300496: SuperMarioTransparent_248
+    21300498: SuperMarioTransparent_249
+    21300500: SuperMarioTransparent_250
+    21300502: SuperMarioTransparent_251
+    21300504: SuperMarioTransparent_252
+    21300506: SuperMarioTransparent_253
+    21300508: SuperMarioTransparent_254
+    21300510: SuperMarioTransparent_255
+    21300512: SuperMarioTransparent_256
+    21300514: SuperMarioTransparent_257
+    21300516: SuperMarioTransparent_258
+    21300518: SuperMarioTransparent_259
+    21300520: SuperMarioTransparent_260
+    21300522: SuperMarioTransparent_261
+    21300524: SuperMarioTransparent_262
+    21300526: SuperMarioTransparent_263
+    21300528: SuperMarioTransparent_264
+    21300530: SuperMarioTransparent_265
+    21300532: SuperMarioTransparent_266
+    21300534: SuperMarioTransparent_267
+    21300536: SuperMarioTransparent_268
+    21300538: SuperMarioTransparent_269
+    21300540: SuperMarioTransparent_270
+    21300542: SuperMarioTransparent_271
+    21300544: SuperMarioTransparent_272
+    21300546: SuperMarioTransparent_273
+    21300548: SuperMarioTransparent_274
+    21300550: SuperMarioTransparent_275
+    21300552: SuperMarioTransparent_276
+    21300554: SuperMarioTransparent_277
+    21300556: SuperMarioTransparent_278
+    21300558: SuperMarioTransparent_279
+    21300560: SuperMarioTransparent_280
+    21300562: SuperMarioTransparent_281
+    21300564: SuperMarioTransparent_282
+    21300566: SuperMarioTransparent_283
+    21300568: SuperMarioTransparent_284
+    21300570: SuperMarioTransparent_285
+    21300572: SuperMarioTransparent_286
+    21300574: SuperMarioTransparent_287
+    21300576: SuperMarioTransparent_288
+    21300578: SuperMarioTransparent_289
+    21300580: SuperMarioTransparent_290
+    21300582: SuperMarioTransparent_291
+    21300584: SuperMarioTransparent_292
+    21300586: SuperMarioTransparent_293
+    21300588: SuperMarioTransparent_294
+    21300590: SuperMarioTransparent_295
+    21300592: SuperMarioTransparent_296
+    21300594: SuperMarioTransparent_297
+    21300596: SuperMarioTransparent_298
+    21300598: SuperMarioTransparent_299
+    21300600: SuperMarioTransparent_300
+    21300602: SuperMarioTransparent_301
+    21300604: SuperMarioTransparent_302
+    21300606: SuperMarioTransparent_303
+    21300608: SuperMarioTransparent_304
+    21300610: SuperMarioTransparent_305
+    21300612: SuperMarioTransparent_306
+    21300614: SuperMarioTransparent_307
+    21300616: SuperMarioTransparent_308
+    21300618: SuperMarioTransparent_309
+    21300620: SuperMarioTransparent_310
+    21300622: SuperMarioTransparent_311
+    21300624: SuperMarioTransparent_312
+    21300626: SuperMarioTransparent_313
+    21300628: SuperMarioTransparent_314
+    21300630: SuperMarioTransparent_315
+    21300632: SuperMarioTransparent_316
+    21300634: SuperMarioTransparent_317
+    21300636: SuperMarioTransparent_318
+    21300638: SuperMarioTransparent_319
+    21300640: SuperMarioTransparent_320
+    21300642: SuperMarioTransparent_321
+    21300644: SuperMarioTransparent_322
+    21300646: SuperMarioTransparent_323
+    21300648: SuperMarioTransparent_324
+    21300650: SuperMarioTransparent_325
+    21300652: SuperMarioTransparent_326
+    21300654: SuperMarioTransparent_327
+    21300656: SuperMarioTransparent_328
+    21300658: SuperMarioTransparent_329
+    21300660: SuperMarioTransparent_330
+    21300662: SuperMarioTransparent_331
+    21300664: SuperMarioTransparent_332
+    21300666: SuperMarioTransparent_333
+    21300668: SuperMarioTransparent_334
+    21300670: SuperMarioTransparent_335
+    21300672: SuperMarioTransparent_336
+    21300674: SuperMarioTransparent_337
+    21300676: SuperMarioTransparent_338
+    21300678: SuperMarioTransparent_339
+    21300680: SuperMarioTransparent_340
+    21300682: SuperMarioTransparent_341
+    21300684: SuperMarioTransparent_342
+    21300686: SuperMarioTransparent_343
+    21300688: SuperMarioTransparent_344
+    21300690: SuperMarioTransparent_345
+    21300692: SuperMarioTransparent_346
+    21300694: SuperMarioTransparent_347
+    21300696: SuperMarioTransparent_348
+    21300698: SuperMarioTransparent_349
+    21300700: SuperMarioTransparent_350
+    21300702: SuperMarioTransparent_351
+    21300704: SuperMarioTransparent_352
+    21300706: SuperMarioTransparent_353
+    21300708: SuperMarioTransparent_354
+    21300710: SuperMarioTransparent_355
+    21300712: SuperMarioTransparent_356
+    21300714: SuperMarioTransparent_357
+    21300716: SuperMarioTransparent_358
+    21300718: SuperMarioTransparent_359
+    21300720: SuperMarioTransparent_360
+    21300722: SuperMarioTransparent_361
+    21300724: SuperMarioTransparent_362
+    21300726: SuperMarioTransparent_363
+    21300728: SuperMarioTransparent_364
+    21300730: SuperMarioTransparent_365
+    21300732: SuperMarioTransparent_366
+    21300734: SuperMarioTransparent_367
+    21300736: SuperMarioTransparent_368
+    21300738: SuperMarioTransparent_369
+    21300740: SuperMarioTransparent_370
+    21300742: SuperMarioTransparent_371
+    21300744: SuperMarioTransparent_372
+    21300746: SuperMarioTransparent_373
+    21300748: SuperMarioTransparent_374
+    21300750: SuperMarioTransparent_375
+    21300752: SuperMarioTransparent_376
+    21300754: SuperMarioTransparent_377
+    21300756: SuperMarioTransparent_378
+    21300758: SuperMarioTransparent_379
+    21300760: SuperMarioTransparent_380
+    21300762: SuperMarioTransparent_381
+    21300764: SuperMarioTransparent_382
+    21300766: SuperMarioTransparent_383
+    21300768: SuperMarioTransparent_384
+    21300770: SuperMarioTransparent_385
+    21300772: SuperMarioTransparent_386
+    21300774: SuperMarioTransparent_387
+    21300776: SuperMarioTransparent_388
+    21300778: SuperMarioTransparent_389
+    21300780: SuperMarioTransparent_390
+    21300782: SuperMarioTransparent_391
+    21300784: SuperMarioTransparent_392
+    21300786: SuperMarioTransparent_393
+    21300788: SuperMarioTransparent_394
+    21300790: SuperMarioTransparent_395
+    21300792: SuperMarioTransparent_396
+    21300794: SuperMarioTransparent_397
+    21300796: SuperMarioTransparent_398
+    21300798: SuperMarioTransparent_399
+    21300800: SuperMarioTransparent_400
+    21300802: SuperMarioTransparent_401
+    21300804: SuperMarioTransparent_402
+    21300806: SuperMarioTransparent_403
+    21300808: SuperMarioTransparent_404
+    21300810: SuperMarioTransparent_405
+    21300812: SuperMarioTransparent_406
+    21300814: SuperMarioTransparent_407
+    21300816: SuperMarioTransparent_408
+    21300818: SuperMarioTransparent_409
+    21300820: SuperMarioTransparent_410
+    21300822: SuperMarioTransparent_411
+    21300824: SuperMarioTransparent_412
+    21300826: SuperMarioTransparent_413
+    21300828: SuperMarioTransparent_414
+    21300830: SuperMarioTransparent_415
+    21300832: SuperMarioTransparent_416
+    21300834: SuperMarioTransparent_417
+    21300836: SuperMarioTransparent_418
+    21300838: SuperMarioTransparent_419
+    21300840: SuperMarioTransparent_420
+    21300842: SuperMarioTransparent_421
+    21300844: SuperMarioTransparent_422
+    21300846: SuperMarioTransparent_423
+    21300848: SuperMarioTransparent_424
+    21300850: SuperMarioTransparent_425
+    21300852: SuperMarioTransparent_426
+    21300854: SuperMarioTransparent_427
+    21300856: SuperMarioTransparent_428
+    21300858: SuperMarioTransparent_429
+    21300860: SuperMarioTransparent_430
+    21300862: SuperMarioTransparent_431
+    21300864: SuperMarioTransparent_432
+    21300866: SuperMarioTransparent_433
+    21300868: SuperMarioTransparent_434
+    21300870: SuperMarioTransparent_435
+    21300872: SuperMarioTransparent_436
+    21300874: SuperMarioTransparent_437
+    21300876: SuperMarioTransparent_438
+    21300878: SuperMarioTransparent_439
+    21300880: SuperMarioTransparent_440
+    21300882: SuperMarioTransparent_441
+    21300884: SuperMarioTransparent_442
+    21300886: SuperMarioTransparent_443
+    21300888: SuperMarioTransparent_444
+    21300890: SuperMarioTransparent_445
+    21300892: SuperMarioTransparent_446
+    21300894: SuperMarioTransparent_447
+    21300896: SuperMarioTransparent_448
+    21300898: SuperMarioTransparent_449
+    21300900: SuperMarioTransparent_450
+    21300902: SuperMarioTransparent_451
+    21300904: SuperMarioTransparent_452
+    21300906: SuperMarioTransparent_453
+    21300908: SuperMarioTransparent_454
+    21300910: SuperMarioTransparent_455
+    21300912: SuperMarioTransparent_456
+    21300914: SuperMarioTransparent_457
+    21300916: SuperMarioTransparent_458
+    21300918: SuperMarioTransparent_459
+    21300920: SuperMarioTransparent_460
+    21300922: SuperMarioTransparent_461
+    21300924: SuperMarioTransparent_462
+    21300926: SuperMarioTransparent_463
+    21300928: SuperMarioTransparent_464
+    21300930: SuperMarioTransparent_465
+    21300932: SuperMarioTransparent_466
+    21300934: SuperMarioTransparent_467
+    21300936: SuperMarioTransparent_468
+    21300938: SuperMarioTransparent_469
+    21300940: SuperMarioTransparent_470
+    21300942: SuperMarioTransparent_471
+    21300944: SuperMarioTransparent_472
+    21300946: SuperMarioTransparent_473
+    21300948: SuperMarioTransparent_474
+    21300950: SuperMarioTransparent_475
+    21300952: SuperMarioTransparent_476
+    21300954: SuperMarioTransparent_477
+    21300956: SuperMarioTransparent_478
+    21300958: SuperMarioTransparent_479
+    21300960: SuperMarioTransparent_480
+    21300962: SuperMarioTransparent_481
+    21300964: SuperMarioTransparent_482
+    21300966: SuperMarioTransparent_483
+    21300968: SuperMarioTransparent_484
+    21300970: SuperMarioTransparent_485
+    21300972: SuperMarioTransparent_486
+    21300974: SuperMarioTransparent_487
+    21300976: SuperMarioTransparent_488
+    21300978: SuperMarioTransparent_489
+    21300980: SuperMarioTransparent_490
+    21300982: SuperMarioTransparent_491
+    21300984: SuperMarioTransparent_492
+    21300986: SuperMarioTransparent_493
+    21300988: SuperMarioTransparent_494
+    21300990: SuperMarioTransparent_495
+    21300992: SuperMarioTransparent_496
+    21300994: SuperMarioTransparent_497
+    21300996: SuperMarioTransparent_498
+    21300998: SuperMarioTransparent_499
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SuperMarioTransparent_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 340
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 341
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 340
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 341
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 340
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_5
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 341
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 341
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_7
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 342
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_8
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 340
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_9
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 340
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_10
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 340
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 341
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_12
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 340
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_13
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 340
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_14
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 340
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_15
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 340
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_16
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 341
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_17
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 341
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 340
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_19
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 340
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_20
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 341
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_21
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 341
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_22
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 339
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_23
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 338
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_24
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 339
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_25
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 338
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_26
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 339
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_27
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 338
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_28
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 339
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_29
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 339
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_30
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 340
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_31
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 338
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_32
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 338
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_33
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 338
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_34
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 339
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_35
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 338
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_36
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 338
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_37
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 338
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_38
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 338
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_39
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 339
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_40
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 339
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_41
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 338
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_42
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 338
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_43
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 339
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_44
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 339
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_45
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 337
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_46
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 315
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_47
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 314
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_48
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 313
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 315
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_50
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 314
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_51
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 313
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_52
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 316
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_53
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 316
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_54
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 317
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_55
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 315
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_56
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 317
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_57
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 317
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_58
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 316
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_59
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 316
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_60
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 317
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_61
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 316
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_62
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 316
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_63
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 314
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_64
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 314
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_65
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 314
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_66
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 314
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_67
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 314
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_68
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 314
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_69
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 311
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_70
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 311
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_71
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 313
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_72
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 312
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_73
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 311
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_74
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 313
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_75
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 312
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_76
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 311
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_77
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 314
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_78
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 314
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_79
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 315
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_80
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 313
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_81
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 315
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_82
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 315
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_83
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 314
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_84
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 314
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_85
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 315
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_86
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 314
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_87
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 314
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_88
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 312
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_89
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 312
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_90
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 312
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_91
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 312
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_92
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 312
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_93
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 312
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_94
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 309
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_95
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 309
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_96
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 281
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_97
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 281
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_98
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 281
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_99
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 281
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_100
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 281
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_101
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 282
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_102
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 281
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_103
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 279
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_104
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 279
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_105
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 280
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_106
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 278
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_107
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 278
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_108
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 278
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_109
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 278
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_110
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 278
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_111
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 278
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_112
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 278
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_113
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 278
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_114
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 278
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_115
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 279
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_116
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 278
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_117
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 278
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_118
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 278
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_119
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 279
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_120
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 279
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_121
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 279
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_122
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 279
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_123
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 279
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_124
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 279
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_125
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 280
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_126
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 279
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_127
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 277
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_128
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 277
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_129
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 278
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_130
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 276
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_131
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 276
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_132
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 276
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_133
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 276
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_134
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 276
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_135
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 276
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_136
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 276
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_137
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 276
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_138
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 276
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_139
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 277
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_140
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 276
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_141
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 276
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_142
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 276
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_143
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 277
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_144
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 254
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_145
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 257
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_146
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 255
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_147
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 255
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_148
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 248
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_149
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 248
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_150
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 248
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_151
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 248
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_152
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 248
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_153
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 248
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_154
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 246
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_155
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 246
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_156
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 245
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_157
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 245
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_158
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 245
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_159
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 245
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_160
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 245
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_161
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 245
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_162
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 246
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_163
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 246
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_164
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 252
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_165
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 255
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_166
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 253
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_167
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 253
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_168
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 246
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_169
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 246
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_170
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 246
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_171
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 246
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_172
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 246
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_173
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 246
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_174
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 244
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_175
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 244
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_176
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 243
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_177
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 243
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_178
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 243
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_179
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 243
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_180
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 243
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_181
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 243
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_182
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 244
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_183
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 244
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_184
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 218
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_185
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 218
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_186
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 218
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_187
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 218
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_188
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 218
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_189
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 220
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_190
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 216
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_191
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 215
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_192
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 215
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_193
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 213
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_194
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 212
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_195
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 212
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_196
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 210
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_197
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 209
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_198
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 203
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_199
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 209
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_200
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 207
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_201
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 216
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_202
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 216
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_203
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 216
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_204
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 216
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_205
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 216
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_206
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 218
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_207
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 214
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_208
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 213
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_209
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 213
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_210
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 211
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_211
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 210
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_212
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 210
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_213
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 208
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_214
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 207
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_215
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 201
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_216
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 207
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_217
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 205
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_218
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 170
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_219
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 171
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_220
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 170
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_221
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 171
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_222
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 170
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_223
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 171
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_224
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 171
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_225
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 172
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_226
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 170
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_227
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 170
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_228
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_229
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 171
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_230
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 170
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_231
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 170
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_232
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 170
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_233
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 170
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_234
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 171
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_235
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 171
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_236
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 170
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_237
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 170
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_238
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 171
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_239
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 171
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_240
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 169
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_241
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 170
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_242
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 171
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_243
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 170
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_244
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 171
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_245
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 170
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_246
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 171
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_247
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 171
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_248
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 172
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_249
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 170
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_250
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 170
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_251
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 170
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_252
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 171
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_253
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 170
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_254
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 170
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_255
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 170
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_256
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 170
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_257
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 171
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_258
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 171
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_259
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 170
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_260
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 170
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_261
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 171
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_262
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 171
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_263
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 169
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_264
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 145
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_265
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 144
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_266
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 143
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_267
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 145
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_268
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_269
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 143
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_270
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 146
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_271
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 146
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_272
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 147
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_273
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 145
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_274
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 147
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_275
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 147
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_276
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 146
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_277
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 146
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_278
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 147
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_279
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 146
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_280
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 146
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_281
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 144
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_282
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 144
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_283
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 144
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_284
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 144
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_285
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 144
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_286
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 144
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_287
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 141
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_288
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 141
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_289
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 145
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_290
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 144
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_291
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 143
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_292
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 145
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_293
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 144
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_294
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 143
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_295
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 146
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_296
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 146
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_297
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 147
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_298
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 145
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_299
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 147
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_300
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 147
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_301
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 146
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_302
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 146
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_303
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 147
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_304
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 146
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_305
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 146
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_306
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 144
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_307
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 144
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_308
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 144
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_309
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 144
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_310
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 144
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_311
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 144
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_312
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 141
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_313
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 141
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_314
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 111
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_315
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 111
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_316
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 111
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_317
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 111
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_318
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 111
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_319
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 112
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_320
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 111
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_321
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 109
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_322
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 109
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_323
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 110
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_324
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 108
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_325
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 108
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_326
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 108
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_327
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 108
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_328
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 108
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_329
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 108
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_330
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 108
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_331
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 109
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_332
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 108
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_333
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 108
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_334
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 108
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_335
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 109
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_336
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 132
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_337
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 111
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_338
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 111
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_339
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 111
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_340
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 111
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_341
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 111
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_342
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 112
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_343
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 111
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_344
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 109
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_345
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 109
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_346
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 110
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_347
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 108
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_348
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 108
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_349
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 108
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_350
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 108
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_351
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 108
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_352
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 108
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_353
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 108
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_354
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 109
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_355
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 108
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_356
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 108
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_357
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 108
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_358
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 109
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_359
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 132
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_360
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 108
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_361
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 124
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_362
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 108
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_363
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 124
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_364
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 108
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_365
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 116
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_366
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 108
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_367
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 116
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_368
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 109
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_369
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 109
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_370
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 84
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_371
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 87
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_372
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 85
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_373
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 85
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_374
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 78
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_375
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 78
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_376
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 78
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_377
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 78
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_378
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 78
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_379
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 78
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_380
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 76
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_381
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 76
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_382
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 75
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_383
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 75
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_384
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 75
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_385
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 75
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_386
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 75
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_387
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 75
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_388
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 76
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_389
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 76
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_390
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 84
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_391
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 87
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_392
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 85
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_393
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 85
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_394
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 78
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_395
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 78
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_396
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 78
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_397
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 78
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_398
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 78
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_399
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 78
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_400
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 76
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_401
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 76
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_402
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 75
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_403
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 75
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_404
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 75
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_405
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 75
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_406
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 75
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_407
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 75
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_408
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 76
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_409
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 76
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_410
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 48
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_411
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 48
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_412
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 48
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_413
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 48
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_414
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 48
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_415
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 50
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_416
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 46
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_417
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 45
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_418
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 45
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_419
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 43
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_420
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 42
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_421
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 42
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_422
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 40
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_423
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 39
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_424
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 33
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_425
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 39
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_426
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 37
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_427
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 33
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_428
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 33
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_429
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 48
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_430
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 48
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_431
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 48
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_432
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 48
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_433
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 48
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_434
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 50
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_435
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 46
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_436
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 45
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_437
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 45
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_438
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 43
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_439
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 42
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_440
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 42
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_441
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 40
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_442
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 39
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_443
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 33
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_444
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 39
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_445
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 37
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_446
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 57
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_447
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 57
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_448
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 57
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_449
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 57
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_450
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 11
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_451
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 12
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_452
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 11
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_453
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 11
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_454
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_455
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 11
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_456
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 11
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_457
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 20
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_458
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 20
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_459
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 20
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_460
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 20
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_461
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 20
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_462
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 20
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_463
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 20
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_464
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 20
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_465
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 20
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_466
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 20
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_467
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 20
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_468
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 20
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_469
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 20
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_470
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 20
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_471
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 20
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_472
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 20
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_473
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 20
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_474
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 20
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_475
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 20
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_476
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 20
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_477
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 20
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_478
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 26
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_479
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 26
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_480
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 16
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_481
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 10
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_482
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 15
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_483
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 13
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_484
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 10
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_485
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_486
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 11
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_487
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 12
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_488
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 11
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_489
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_490
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 11
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_491
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 10
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_492
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 17
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_493
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 5
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_494
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 5
+        width: 39
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_495
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 5
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_496
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 5
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_497
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 5
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_498
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 5
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SuperMarioTransparent_499
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 5
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
